@@ -11,12 +11,17 @@ import { HiMenu, HiX } from "react-icons/hi";
 const navLinks = [
   { href: "/", label: "Home" },
   { href: "/chat", label: "AI Chat" },
-  { href: "/law", label: "Law Assistant" },
-  { href: "/study-tools", label: "Study Tools" },
-  { href: "/document-analyzer", label: "Document Analyzer" },
-  { href: "/image-generator", label: "Image Generator" },
-  { href: "/video-generator", label: "Video Generator" },
-  { href: "/research-hub", label: "Research Hub" },
+  { href: "/router", label: "AI Router" },
+  { href: "/student-hub", label: "Student Hub" },
+  { href: "/law-pro", label: "Law Pro" },
+  { href: "/documents", label: "Documents" },
+  { href: "/vision", label: "Vision AI" },
+  { href: "/research", label: "Research" },
+  { href: "/image-studio", label: "Image Studio" },
+  { href: "/video-studio", label: "Video Studio" },
+  { href: "/productivity", label: "Productivity" },
+  { href: "/memory", label: "Memory" },
+  { href: "/dashboard", label: "Dashboard" },
   { href: "/pricing", label: "Pricing" },
 ];
 
